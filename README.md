@@ -9,4 +9,4 @@ This repo is about ways to create 3D Model
 最后，将Geomagic软件的模型保存为后缀为obj格式的文件，并导入到3dmax软件中，进行后续的纹理贴图制作。选择模型发送至mudbox进行纹理贴图映射就可以完成整个过程啦。更加详细的建模过程参考文档`详细建模过程.docx`
 
 ## vedio format
-当然，可以将模型加载导入到3D可视化工具Lumion中做成视频。我做的视频见的`3d vedio.mp4`
+当然，可以将模型加载导入到3D可视化工具Lumion中做成视频。示例视频截图见image文件夹。
